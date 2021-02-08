@@ -91,7 +91,7 @@
 
 .header{
 				background-color:#ff5e00;
-				margin-top:-78px;
+				margin-top:-83px;
 				border-radius:0px 0px 0px 0px;
 				margin-left:%;
 }
