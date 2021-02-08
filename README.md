@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html >
 <head>
 				<title>Judul halaman</title>
@@ -62,6 +61,7 @@
 				margin-top:60px;
 				margin-left:px;
 				color:white;
+ font-size:15px;
 				background:none;
 				
 				
@@ -71,7 +71,7 @@
 				text-align:center;
 				padding:20px;
 				color:white;
-				border-radius:0px 0px 5px 5px;
+				
 				margin-left:-20px;
 				margin-right:-9px;
 				
@@ -86,12 +86,12 @@
 				margin-right:-9px;
 				margin-top:-20px;
 				font-size:11px;
-				border-radius:px;
+				
 }
 
 .header{
 				background-color:#ff5e00;
-				margin-top:-10.6px;
+				margin-top:-30px;
 				border-radius:0px 0px 0px 10px;
 				margin-left:1%;
 }
