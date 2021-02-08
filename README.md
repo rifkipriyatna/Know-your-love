@@ -34,7 +34,7 @@
 
 .tombol{
 				margin-left:20px;
-				margin-top:-45px;
+				margin-top:-37px;
 				display:flex;
 				justify-content:space-between;
 				flex-direction:column;
@@ -58,7 +58,7 @@
 				border:none;
 				position:absolute;
 				left:47%;
-				margin-top:100px;
+				margin-top:90px;
 				margin-left:px;
 				color:white;
  font-size:15px;
@@ -73,7 +73,7 @@
 				color:white;
 				
 				margin-left:-20px;
-				margin-right:-9px;
+				margin-right:-20px;
 				
 }
 
@@ -83,7 +83,7 @@
 				color:white;
 				padding:20px;
 				margin-left:-20px;;
-				margin-right:-9px;
+				margin-right:-20px;
 				margin-top:-20px;
 				font-size:11px;
 				
@@ -91,7 +91,7 @@
 
 .header{
 				background-color:#ff5e00;
-				margin-top:-85px;
+				margin-top:-78px;
 				border-radius:0px 0px 0px 0px;
 				margin-left:%;
 }
