@@ -57,8 +57,8 @@
 				text-decoration:none;
 				border:none;
 				position:absolute;
-				left:43%;
-				margin-top:60px;
+				left:50%;
+				margin-top:80px;
 				margin-left:px;
 				color:white;
  font-size:15px;
@@ -91,8 +91,8 @@
 
 .header{
 				background-color:#ff5e00;
-				margin-top:-30px;
-				border-radius:0px 0px 0px 10px;
+				margin-top:-70px;
+				border-radius:0px 0px 0px 0px;
 				margin-left:1%;
 }
 
@@ -209,7 +209,7 @@
 							<li><a href="https://youtube.com/channel/UCVYoaKAPM9-4IlNA91fpUVg"><img class="yt" src="https://raw.githubusercontent.com/rifkipriyatna/test/main/ty.jpeg"></a></li>
 						<li><a href="https://www.priyatnarifki@gmail.com"><img class="gm" src="https://raw.githubusercontent.com/rifkipriyatna/test/main/gmail.png"></a></li>
 							<li> <a href="https://wa.me/qr/PFZ5F7WWOLIOE1">	<img class="wa" src="https://raw.githubusercontent.com/rifkipriyatna/test/main/wa.jpg"></a></li></ul>
-				</sosmed>
+				
 				<script> 
 								function myFunction(){
 								var jawab = prompt("Masukan Bulan Lahir Kamu Dengan Huruf KAPITAL");
@@ -230,5 +230,4 @@
 								  else { document.write("<h2>Tipe carachteristik jodoh kamu adalah" + hadiah + "</h2>"); }} </script>
 
 
-</body>
-</html>
+
