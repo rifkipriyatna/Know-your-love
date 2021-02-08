@@ -196,10 +196,10 @@
 				<p class="luv">Selamat Datang di KNOW YOUR LOVE</p>
 				<p class="isi">Know Your Love adalah sebuah website yang bisa mengetahui carachter jodoh mu dengan memasukan bulan lahir seseorang,Cara penggunaanya adalah klik mulai lalu isi sesuai bulan lahir anda,selesai</p>
 				</div>
-				<hr class="hr">
+				
 				<p class="lope">🖤
 				<button onclick="myFunction()" class="mulai">Mulai</button></p>
-				<hr class="hrr">
+				
 				<div class="sosmed">
 				<p class="sos">Create:6  Februari 2021</p>
 				<br>
