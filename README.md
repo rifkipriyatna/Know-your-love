@@ -206,7 +206,7 @@
 				<ul>
 								<li><a href="https://www.facebook.com/profile.php?id=100011548591895"><img src="https://raw.githubusercontent.com/rifkipriyatna/o/main/fb.png" class="fb"></a></li>
 								<li><a href="https://www.instagram.com/invites/contact/?i=8z0pugk0jumb&utm_content=3f70xoh"><img class="ig" src="https://raw.githubusercontent.com/rifkipriyatna/o/main/ig.jpeg"></a></li>
-							<li><a href="https://youtube.com/channel/UCVYoaKAPM9-4IlNA91fpUVg"><img class="yt" src="https://raw.githubusercontent.com/rifkipriyatna/o/main/yt.jpeg"></a></li>
+							<li><a href="https://youtube.com/channel/UCVYoaKAPM9-4IlNA91fpUVg"><img class="yt" src="https://raw.githubusercontent.com/rifkipriyatna/o/main/yt.jpg"></a></li>
 						<li><a href="https://www.priyatnarifki@gmail.com"><img class="gm" src="https://raw.githubusercontent.com/rifkipriyatna/o/main/gmail.png"></a></li>
 							<li> <a href="https://wa.me/qr/PFZ5F7WWOLIOE1">	<img class="wa" src="https://raw.githubusercontent.com/rifkipriyatna/o/main/wa.jpg"></a></li></ul>
 				
