@@ -34,7 +34,7 @@
 
 .tombol{
 				margin-left:20px;
-				margin-top:-30px;
+				margin-top:-45px;
 				display:flex;
 				justify-content:space-between;
 				flex-direction:column;
@@ -57,8 +57,8 @@
 				text-decoration:none;
 				border:none;
 				position:absolute;
-				left:50%;
-				margin-top:80px;
+				left:47%;
+				margin-top:100px;
 				margin-left:px;
 				color:white;
  font-size:15px;
@@ -91,9 +91,9 @@
 
 .header{
 				background-color:#ff5e00;
-				margin-top:-70px;
+				margin-top:-85px;
 				border-radius:0px 0px 0px 0px;
-				margin-left:1%;
+				margin-left:%;
 }
 
 .lope{
